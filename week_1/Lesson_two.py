@@ -1,0 +1,7 @@
+print("my name is Bridgett")
+print("i am 18 years old")
+print("i come from nairobi")
+print("i love watching,sleeping")
+print("---------------")
+print("****************")
+print("##################")
