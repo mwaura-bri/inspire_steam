@@ -14,6 +14,6 @@ for number in range(0,10):
 # squares of the numbers
     
 for x in range(0 , 11 ):
-    print(str(x**2 )+ "\t"  ,end=" ")  # squares
+    print(str(x**2 )+ "\t"  ,end=" ")  # squares   
     
 

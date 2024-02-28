@@ -1,5 +1,5 @@
 # calculating pascals using loops
-# date : 21/02/2024
+# date : 22/02/2024
 # name : Bridgett Mwaura
 
 from math import factorial
