@@ -1,0 +1,31 @@
+section{
+    background-color: chartreuse;
+    color:chocolate;
+    height:50px;
+    width:100px;
+}
+img{
+width:30cm;
+height:25cm;
+} 
+.header-1{
+color:aqua;
+
+}   
+.ball{
+    background-color: blueviolet;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    
+}
+#bouncing{
+    position: absolute;
+}
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+    justify-content:center;
+    align-items:center;
+}
